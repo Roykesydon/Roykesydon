@@ -5,8 +5,8 @@
 
 <div width="100%" >
   <h1 align="center">Stats</h1>
-  <a align="" href="https://github.com/Roykesydon" title=""><img align="" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=tokyonight&show_icons=true"></a>
-  <a align="" href="https://github.com/Roykesydon" title=""><img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=tokyonight&show_icons=true"></a>
+  <a align="" href="https://github.com/Roykesydon" title=""><img align="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=tokyonight&show_icons=true"></a>
+  <a align="" href="https://github.com/Roykesydon" title=""><img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=tokyonight&show_icons=true"></a>
 </div> 
 
 <br/><br/><br/>
