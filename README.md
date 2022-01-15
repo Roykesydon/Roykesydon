@@ -11,9 +11,9 @@
 <div width="100%" >
   <h1 align="center">Stats</h1>
   <div align="center">
-   <a align="" href="https://github.com/Roykesydon" title=""><img align="" height="220vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=tokyonight&show_icons=true&langs_count=10"></a>
+   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="500vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=tokyonight&show_icons=true&langs_count=10"></a>
    <span>
-      <a align="" href="https://github.com/Roykesydon" title=""><img align="" height="220vh"  src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=tokyonight&show_icons=true"></a>
+      <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="500vw"  src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=tokyonight&show_icons=true"></a>
    </span>
   </div>
 </div> 
