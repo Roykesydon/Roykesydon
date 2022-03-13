@@ -33,6 +33,7 @@
       </tr>
         <tr>
          <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=StellarTrack&theme=react&border_color=61dafb&border_radius=10"></a></td>
+         <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=KagglePratice&theme=react&border_color=61dafb&border_radius=10"></a></td>
       </tr>
     </tbody>
  </table>
