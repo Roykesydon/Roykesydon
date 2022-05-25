@@ -1,7 +1,7 @@
 
 <html>
 <div width="100%" align="center">
- <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Roykesydone&fontSize=90&customColorList=24"/>
+ <img align="center" src="https://capsule-render.vercel.app/api?type=waving&fontColor=32cd32&color=000000&height=300&section=header&text=Roykesydone&fontSize=90&customColorList=4"/>
  </div> 
 <div width="100%" align="center">
 <a align="center" href="https://github.com/Roykesydon" title="Spotify"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=hp6qzx9akiuwqnqjapic1yr1b&cover_image=true&theme=default"></a>
@@ -11,9 +11,9 @@
 <div width="100%" >
   <h1 align="center">Stats</h1>
   <div align="center">
-   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=tokyonight&show_icons=true&langs_count=10"></a>
+   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roykesydon&layout=compact&theme=chartreuse-dark&show_icons=true&langs_count=10"></a>
    <span>
-      <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=tokyonight&show_icons=true"></a>
+      <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats.vercel.app/api?username=Roykesydon&theme=chartreuse-dark&show_icons=true"></a>
    </span>
   </div>
 </div> 
@@ -28,16 +28,16 @@
   <table >
     <tbody >
       <tr>
-       <td><a align="" href="https://github.com/Roykesydon/RoyKesyShop" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=RoyKesyShop&theme=react&border_color=61dafb&border_radius=10" ></a></td>
-        <td><a align="" href="https://github.com/Roykesydon/RentHub" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=RentHub&theme=react&border_color=61dafb&border_radius=10" ></a></td>
+       <td><a align="" href="https://github.com/Roykesydon/RoyKesyShop" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=RoyKesyShop&theme=chartreuse-dark&border_color=61dafb&border_radius=10" ></a></td>
+        <td><a align="" href="https://github.com/Roykesydon/RentHub" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=RentHub&theme=chartreuse-dark&border_color=61dafb&border_radius=10" ></a></td>
       </tr>
         <tr>
-          <td ><a align="" href="https://github.com/Roykesydon/WeAreFamily" title="WeAreFamily"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=WeAreFamily&theme=react&border_color=61dafb&border_radius=10"></a></td>
-         <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=StellarTrack&theme=react&border_color=61dafb&border_radius=10"></a></td>
+          <td ><a align="" href="https://github.com/Roykesydon/WeAreFamily" title="WeAreFamily"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=WeAreFamily&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
+         <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=StellarTrack&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
       </tr>
      <tr>
-         <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=KagglePratice&theme=react&border_color=61dafb&border_radius=10"></a></td>
-      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=Roykesistant&theme=react&border_color=61dafb&border_radius=10"></a></td>
+         <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
+      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
      </tr>
     </tbody>
  </table>
