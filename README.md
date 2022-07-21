@@ -36,11 +36,12 @@
          <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=StellarTrack&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
       </tr>
      <tr>
-      <td ><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td> 
+      <td><a align="" href="https://github.com/Roykesydon/Roykestereo" title="Roykestereo"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Roykestereo&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
       <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
      </tr>
      <tr>
       <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td>
+      <td><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=61dafb&border_radius=10"></a></td> 
      </tr>
     </tbody>
  </table>
