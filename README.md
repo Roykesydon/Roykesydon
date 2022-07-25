@@ -11,7 +11,7 @@
 <div width="100%" >
   <h1 align="center">Stats</h1>
   <div align="center">
-   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api/top-langs/?text_color=FFFFFF&exclude_repo=Kaggle-Pratice&hide=php&title_color=32cd32&border_color=32cd32&username=Roykesydon&layout=compact&theme=chartreuse-dark&show_icons=true&langs_count=10"></a>
+   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api/top-langs/?text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php&title_color=32cd32&border_color=32cd32&username=Roykesydon&layout=compact&theme=chartreuse-dark&show_icons=true&langs_count=10"></a>
    <span>
       <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats.vercel.app/api?text_color=FFFFFF&title_color=32cd32&border_color=32cd32&username=Roykesydon&theme=chartreuse-dark&show_icons=true"></a>
    </span>
