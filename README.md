@@ -43,6 +43,10 @@
       <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
       <td><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td> 
      </tr>
+     <tr>
+     <td><a align="" href="https://github.com/Roykesydon/CSS-Playground" title="CSS-Playground"><img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=CSS-Playground&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
+     <td></td>
+     </tr>
     </tbody>
  </table>
 </div> 
