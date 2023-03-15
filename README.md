@@ -1,8 +1,13 @@
 
 <html>
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&fontColor=32cd32&color=000000&height=300&section=header&text=Roykesydone&fontSize=90&customColorList=4"/>
+ </div>  -->
+<div width="100%" align="center">
+ <img align="center" src="./static/logo.png"/>
  </div> 
+<br/><br/><br/>
+
 <div width="100%" align="center">
 <a align="center" href="https://github.com/Roykesydon" title="Spotify"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=hp6qzx9akiuwqnqjapic1yr1b&cover_image=true&theme=default"></a>
  </div> 
@@ -11,46 +16,46 @@
 <div width="100%" >
   <h1 align="center">Stats</h1>
   <div align="center">
-   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php&title_color=32cd32&border_color=32cd32&username=Roykesydon&layout=compact&theme=chartreuse-dark&show_icons=true&langs_count=10"></a>
+   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=101010FF&text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php,TypeScript&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=be6dea&hide_border=true"></a>
    <span>
-      <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats-sigma-five.vercel.app/api?text_color=FFFFFF&title_color=32cd32&border_color=32cd32&username=Roykesydon&theme=chartreuse-dark&show_icons=true"></a>
+    <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats.vercel.app/api?bg_color=101010FF&text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php,TypeScript&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=be6dea&icon_color=7ea4ea&hide_border=true"></a>
+      <!-- <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats-sigma-five.vercel.app/api?text_color=FFFFFF&title_color=32cd32&border_color=32cd32&username=Roykesydon&theme=chartreuse-dark&show_icons=true"></a> -->
    </span>
   </div>
 </div> 
 
-<br/><br/><br/>
+<br/>
 
 <div width="100%" align="center">
- 
-
- 
   <h1 align="center">Repo</h1>
   <table >
     <tbody >
       <tr>
-       <td><a align="" href="https://github.com/Roykesydon/RoyKesyShop" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=RoyKesyShop&theme=chartreuse-dark&border_color=32cd32&border_radius=10" ></a></td>
-        <td><a align="" href="https://github.com/Roykesydon/RentHub" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=RentHub&theme=chartreuse-dark&border_color=32cd32&border_radius=10" ></a></td>
+       <td><a align="" href="https://github.com/Roykesydon/RoyKesyShop" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=RoyKesyShop&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea" ></a></td>
+        <td><a align="" href="https://github.com/Roykesydon/RentHub" title="RentHub"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=RentHub&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea" ></a></td>
       </tr>
         <tr>
-          <td ><a align="" href="https://github.com/Roykesydon/WeAreFamily" title="WeAreFamily"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=WeAreFamily&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
-         <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=StellarTrack&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
+          <td ><a align="" href="https://github.com/Roykesydon/WeAreFamily" title="WeAreFamily"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=WeAreFamily&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
+         <td>  <a align="" href="https://github.com/Roykesydon/StellarTrack" title="StellarTrack"><img  height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=StellarTrack&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
       </tr>
      <tr>
-      <td><a align="" href="https://github.com/Roykesydon/Roykestereo" title="Roykestereo"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Roykestereo&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
-      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
+      <td><a align="" href="https://github.com/Roykesydon/Roykestereo" title="Roykestereo"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Roykestereo&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
+      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
      </tr>
      <tr>
-      <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
-      <td><a align="" href="https://github.com/Roykesydon/CSS-Playground" title="CSS-Playground"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=CSS-Playground&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
+      <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
+      <td><a align="" href="https://github.com/Roykesydon/CSS-Playground" title="CSS-Playground"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=CSS-Playground&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
      </tr>
      <tr>
-     <td><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="Python-Socket-Chat-Room"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td> 
-     <td><a align="" href="https://github.com/Roykesydon/Blog" title="Blog"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=32cd32&username=Roykesydon&repo=Blog&theme=chartreuse-dark&border_color=32cd32&border_radius=10"></a></td>
+     <td><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="Python-Socket-Chat-Room"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td> 
+     <td><a align="" href="https://github.com/Roykesydon/Blog" title="Blog"><img height="100%" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Blog&theme=chartreuse-dark&border_color=32cd32&border_radius=10&bg_color=101010&title_color=be6dea"></a></td>
      </tr>
     </tbody>
  </table>
 </div> 
-<br/><br/><br/><br/><br/><br/>
+
+<br/>
+
 <div>
  <h1 align="center">Languages & Frameworks & Tools & Abilities</h1>
 </div>
@@ -87,9 +92,9 @@
 <a align="center" href="https://steamcommunity.com/profiles/76561198116991781/"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a></div>
 
 <br/>
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
  <h4 align="top">Page VIew</h4>
    <img align="center" height="50" src="https://profile-counter.glitch.me/Roykesydon/count.svg">
-</div>
+</div> -->
 
 </html>
