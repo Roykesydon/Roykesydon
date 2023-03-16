@@ -16,9 +16,9 @@
 <div width="100%" >
   <h1 align="center">Stats</h1>
   <div align="center">
-   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats-roykesydon.vercel.app//api/top-langs/?bg_color=101010FF&text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php,TypeScript&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=e697f0&hide_border=false"></a>
+   <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats-roykesydon.vercel.app//api/top-langs/?bg_color=101010FF&text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP&hide=php,TypeScript,html&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=e697f0&hide_border=false"></a>
    <span>
-    <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats-roykesydon.vercel.app//api?bg_color=101010FF&text_color=FFFFFF&exclude_repo=Kaggle-Pratice,Pytorch-CCP,uva_pratice&hide=php,TypeScript&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=e697f0&icon_color=7ea4ea&hide_border=false"></a>
+    <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw" src="https://github-readme-stats-roykesydon.vercel.app//api?bg_color=101010FF&text_color=FFFFFF&hide=php,TypeScript&title_color=be6dea&username=Roykesydon&layout=compact&theme=default&show_icons=true&langs_count=10&border_color=e697f0&icon_color=7ea4ea&hide_border=false"></a>
       <!-- <a align="" href="https://github.com/Roykesydon" title=""><img align="" width="560vw"  src="https://github-readme-stats-sigma-five.vercel.app/api?text_color=FFFFFF&title_color=32cd32&border_color=e697f0&username=Roykesydon&theme=chartreuse-dark&show_icons=true"></a> -->
    </span>
   </div>
