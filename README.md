@@ -42,15 +42,16 @@
       </tr>
      <tr>
       <td><a align="" href="https://github.com/Roykesydon/Roykestereo" title="Roykestereo"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Roykestereo&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
-      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
+      <td><a align="" href="https://github.com/Roykesydon/Simulated-UAV-Patrol-and-Tracking-System" title="Simulated-UAV-Patrol-and-Tracking-System"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Simulated-UAV-Patrol-and-Tracking-System&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
      </tr>
+     <tr>
+     <td><a align="" href="https://github.com/Roykesydon/Blog" title="Blog"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Blog&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
+      <td ><a align="" href="https://github.com/Roykesydon/Roykesistant" title="Roykesistant"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Roykesistant&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
+           </tr>
      <tr>
 <!--       <td ><a align="" href="https://github.com/Roykesydon/KagglePratice" title="KagglePratice"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=KagglePratice&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td> -->
       <td><a align="" href="https://github.com/Roykesydon/CSS-Playground" title="CSS-Playground"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=CSS-Playground&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
            <td><a align="" href="https://github.com/Roykesydon/Python-Socket-Chat-Room" title="Python-Socket-Chat-Room"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Python-Socket-Chat-Room&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td> 
-     </tr>
-     <tr>
-     <td><a align="" href="https://github.com/Roykesydon/Blog" title="Blog"><img height="100%" width="100%" src="https://github-readme-stats-roykesydon.vercel.app/api/pin/?text_color=ffffff&icon_color=7ea4ea&username=Roykesydon&repo=Blog&theme=chartreuse-dark&border_color=e697f0&border_radius=10&bg_color=101010&title_color=be6dea&hide_border=false"></a></td>
      </tr>
     </tbody>
  </table>
