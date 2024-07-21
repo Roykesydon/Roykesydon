@@ -9,7 +9,7 @@
 <br/><br/><br/>
 
 <div width="100%" align="center">
-<a align="center" href="https://github.com/Roykesydon" title="Spotify"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=hp6qzx9akiuwqnqjapic1yr1b&cover_image=true&theme=default"></a>
+<a align="center" href="https://github.com/Roykesydon" title="Spotify"><img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=hp6qzx9akiuwqnqjapic1yr1b&cover_image=true&theme=default"></a>
  </div> 
 <br /><br />
 
